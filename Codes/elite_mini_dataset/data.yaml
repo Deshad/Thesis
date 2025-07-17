@@ -1,0 +1,6 @@
+names:
+- pig
+nc: 1
+path: c:\Users\2955352g\Desktop\Thesis\Codes\elite_mini_dataset
+train: images
+val: images
